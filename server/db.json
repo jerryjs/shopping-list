@@ -10,13 +10,22 @@
         {
           "text": "hkhjkj",
           "checked": true
+        },
+        {
+          "text": "foo",
+          "checked": false
         }
       ],
       "id": "1"
     },
     {
       "title": "MERDA",
-      "items": [],
+      "items": [
+        {
+          "text": "zip",
+          "checked": false
+        }
+      ],
       "id": 3
     },
     {
